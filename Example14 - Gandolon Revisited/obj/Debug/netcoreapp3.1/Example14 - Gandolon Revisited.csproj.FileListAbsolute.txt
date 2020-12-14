@@ -1,0 +1,12 @@
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/bin/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.deps.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/bin/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.runtimeconfig.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/bin/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.runtimeconfig.dev.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/bin/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.dll
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/bin/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.pdb
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/obj/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.csprojAssemblyReference.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/obj/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.AssemblyInfoInputs.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/obj/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.AssemblyInfo.cs
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/obj/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.csproj.CoreCompileInputs.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/obj/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.dll
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/obj/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.pdb
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example14 - Gandolon Revisited/obj/Debug/netcoreapp3.1/Example14 - Gandolon Revisited.genruntimeconfig.cache

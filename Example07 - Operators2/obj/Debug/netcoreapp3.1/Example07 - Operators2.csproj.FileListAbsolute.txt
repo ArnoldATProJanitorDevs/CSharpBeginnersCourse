@@ -1,0 +1,12 @@
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/bin/Debug/netcoreapp3.1/Example07 - Operators2.deps.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/bin/Debug/netcoreapp3.1/Example07 - Operators2.runtimeconfig.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/bin/Debug/netcoreapp3.1/Example07 - Operators2.runtimeconfig.dev.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/bin/Debug/netcoreapp3.1/Example07 - Operators2.dll
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/bin/Debug/netcoreapp3.1/Example07 - Operators2.pdb
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/obj/Debug/netcoreapp3.1/Example07 - Operators2.csprojAssemblyReference.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/obj/Debug/netcoreapp3.1/Example07 - Operators2.AssemblyInfoInputs.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/obj/Debug/netcoreapp3.1/Example07 - Operators2.AssemblyInfo.cs
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/obj/Debug/netcoreapp3.1/Example07 - Operators2.csproj.CoreCompileInputs.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/obj/Debug/netcoreapp3.1/Example07 - Operators2.dll
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/obj/Debug/netcoreapp3.1/Example07 - Operators2.pdb
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example07 - Operators2/obj/Debug/netcoreapp3.1/Example07 - Operators2.genruntimeconfig.cache

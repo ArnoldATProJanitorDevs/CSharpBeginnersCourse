@@ -1,0 +1,15 @@
+            // 1. Create needed instances
+            // 2. Display Introduction screen
+            // 3. Make experience more humanoid
+            // 4. Create new Poker-Deck, cards can be drawn from
+            // 5. Display the 5 cards to select from
+            // 6. Display a call to action screen, player knows what to do next
+            // 7. Process player input to a number
+            // 8. Give the player a card and saves it into field "holdingCard"
+            // 9. Display the instruction for revealing the drawn card to the user
+            // 10. Display the drawn card to the user
+            // 11. Make experience more humanoid
+            // 12. Display the wait for player screen
+            // 13. Display the simulation of a thinking Gandolon
+            // 14. Display the final result screen
+            // 15. Wait for the final answer of the player to end the game

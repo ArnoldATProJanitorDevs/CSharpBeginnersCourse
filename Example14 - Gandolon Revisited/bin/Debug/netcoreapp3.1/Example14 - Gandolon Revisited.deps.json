@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Example14 - Gandolon Revisited/1.0.0": {
+        "runtime": {
+          "Example14 - Gandolon Revisited.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example14 - Gandolon Revisited/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

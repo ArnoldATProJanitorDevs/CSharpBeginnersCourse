@@ -1,0 +1,12 @@
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/bin/Debug/netcoreapp3.1/Example08 - If-Statements.deps.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/bin/Debug/netcoreapp3.1/Example08 - If-Statements.runtimeconfig.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/bin/Debug/netcoreapp3.1/Example08 - If-Statements.runtimeconfig.dev.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/bin/Debug/netcoreapp3.1/Example08 - If-Statements.dll
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/bin/Debug/netcoreapp3.1/Example08 - If-Statements.pdb
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/obj/Debug/netcoreapp3.1/Example08 - If-Statements.csprojAssemblyReference.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/obj/Debug/netcoreapp3.1/Example08 - If-Statements.AssemblyInfoInputs.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/obj/Debug/netcoreapp3.1/Example08 - If-Statements.AssemblyInfo.cs
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/obj/Debug/netcoreapp3.1/Example08 - If-Statements.csproj.CoreCompileInputs.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/obj/Debug/netcoreapp3.1/Example08 - If-Statements.dll
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/obj/Debug/netcoreapp3.1/Example08 - If-Statements.pdb
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example08 - If-Statements/obj/Debug/netcoreapp3.1/Example08 - If-Statements.genruntimeconfig.cache

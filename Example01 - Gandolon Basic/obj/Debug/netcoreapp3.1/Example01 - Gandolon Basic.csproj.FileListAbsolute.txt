@@ -1,0 +1,12 @@
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/bin/Debug/netcoreapp3.1/Example01 - Gandolon Basic.deps.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/bin/Debug/netcoreapp3.1/Example01 - Gandolon Basic.runtimeconfig.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/bin/Debug/netcoreapp3.1/Example01 - Gandolon Basic.runtimeconfig.dev.json
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/bin/Debug/netcoreapp3.1/Example01 - Gandolon Basic.dll
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/bin/Debug/netcoreapp3.1/Example01 - Gandolon Basic.pdb
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/obj/Debug/netcoreapp3.1/Example01 - Gandolon Basic.csprojAssemblyReference.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/obj/Debug/netcoreapp3.1/Example01 - Gandolon Basic.AssemblyInfoInputs.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/obj/Debug/netcoreapp3.1/Example01 - Gandolon Basic.AssemblyInfo.cs
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/obj/Debug/netcoreapp3.1/Example01 - Gandolon Basic.csproj.CoreCompileInputs.cache
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/obj/Debug/netcoreapp3.1/Example01 - Gandolon Basic.dll
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/obj/Debug/netcoreapp3.1/Example01 - Gandolon Basic.pdb
+/Users/arnoldabraham/Google Drive/Business/Programming/Courses/C#/01 Beginner Course/Example01 - Gandolon Basic/obj/Debug/netcoreapp3.1/Example01 - Gandolon Basic.genruntimeconfig.cache
